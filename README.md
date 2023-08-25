@@ -14,6 +14,6 @@ See tract_profile_plot.py for creation of tract profile plots
 Robust regression was conducted in R using the MASS package  
 See dodadni_regressions.R  
 
-**Cognitive perofrmance analyses:**  
+**Cognitive performance analyses:**  
 Elastic net regressions were conducted in R using the beset package  
 See dodadni_regressions.R  
